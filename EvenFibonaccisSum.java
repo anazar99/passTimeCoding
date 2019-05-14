@@ -1,3 +1,9 @@
+/**
+ * 
+ * @author Ahmed Nazar
+ *  Program to find the sum of even Fibonacci numbers
+ */
+
 import java.util.Map;
 import java.util.HashMap;
 
