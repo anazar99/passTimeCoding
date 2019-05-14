@@ -1,5 +1,3 @@
-package funTimes;
-
 /**
  * 
  * @author Ahmed Nazar
